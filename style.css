@@ -1,4 +1,19 @@
+h1{
+    background-color: aqua;
+    color: blue;
+}
+p{
+    background-color: aqua;
+    color: blue;
+}
 .one{
     background-color: aqua;
     color: blue;
+}
+#one{
+    background-color: aqua;
+    color: blue;
+}
+img{
+    border:dotted black:
 }
