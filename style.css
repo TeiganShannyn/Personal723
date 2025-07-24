@@ -17,3 +17,8 @@ p{
 img{
     border:dotted black:
 }
+ul{
+    background-color: bisque;
+    color: brown;
+    border: dashed black;
+}
