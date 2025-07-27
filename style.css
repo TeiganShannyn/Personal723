@@ -2,17 +2,8 @@ h1{
     background-color: lightgoldenrodyellow;
     color: blue;
 }
-.flex-container{
-    display: flex;
-}
-#one{
-    justify-content: center;
-    align-items: flex-start;
-}
-p{
-    background-color: lightgrey;
-    color: blue;
-}
+p{  background-color: lightgray;
+    color: blue;}
 .one{
     background-color: lightgrey;
     color: blue;
